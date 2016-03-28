@@ -6,8 +6,8 @@ Welcome to the course material and home of Acumed Training's anomaly detection c
 - **Day 3**: Building better historic profiles 
 
 ## Course prerequisites
-| | Requirement |
------------------
+|    | Requirement |
+|---:|--- |
 | Must | Some experience developing or at least scripting in Python |
 | Must | A numerate backgrownd, ideally some basic statistics | 
 | Optional | Experience using Python Pandas |
