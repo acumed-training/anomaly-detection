@@ -1,12 +1,12 @@
-Copyright (c) 2016 Acumed Consulting Ltd 
+**Copyright (c) 2016 Acumed Consulting Ltd** 
 
-Course material for Anomaly Detection is licensed under a
+**Course material** for Anomaly Detection is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You should have received a copy of the license along with this
 work.  If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
-Software for Anomaly Detection is licensed under the Apache License, Version 2.0 (the "License");
+**Software** for Anomaly Detection is licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
